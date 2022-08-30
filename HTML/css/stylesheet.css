@@ -111,3 +111,17 @@ table {
     width: 100%;
     text-align: center;
 }
+
+#footer{
+	position: relative;
+	left: 0;
+	bottom: 0;
+	height: 100px;
+	width: 100%;
+	color: #fff;
+	background-color: #3E0001;
+	padding: 0.01em 16px;
+	font-family: Verdana,sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
