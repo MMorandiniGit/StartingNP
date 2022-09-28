@@ -406,6 +406,22 @@ a {
     color: #999;
 }
 
+.go-top {
+	position: flex;
+	bottom: 2em;
+	right: 8em;
+	text-decoration: none;
+	color: rgb(213, 47, 47);
+	background-color: rgba(0, 0, 0, 0.3);
+	font-size: 12px;
+	padding: 1em;
+	display: inline-flex;
+}
+
+.go-top:hover {
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
 @media screen and (min-width: 24.375em) {
     .legal .legal__links {
         margin-left: auto;
